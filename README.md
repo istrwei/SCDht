@@ -1,6 +1,6 @@
 # Golang语言实现的DHT网络爬虫整站程序
 
-作者博客：<http://shuang.ca>
+作者博客：<http://www.lovekk.org>
 
 # 程序说明
 
@@ -55,4 +55,4 @@ go build
 
 # 程序反馈
 
-<http://shuang.ca>
+<http://www.lovekk.org>
